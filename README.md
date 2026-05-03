@@ -1,4 +1,4 @@
-Here’s a **refined, recruiter-ready, premium README** based on your full project (including fact tables + additional datasets). This version is sharper, more structured, and # 🏗️ End-to-End Data Lakehouse Project (Databricks)
+# 🏗️ End-to-End Data Lakehouse Project (Databricks)
 
 ## 📌 Overview
 
