@@ -131,59 +131,7 @@ Builds analytics-ready datasets using dimensional modeling.
 
 ---
 
-## ▶️ How to Run
-
-1. Import all notebooks into Databricks
-2. Execute in order:
-
-```
-1. init_lakehouse.ipynb
-2. silver_orchestration_.ipynb
-3. gold_orchestration_.ipynb
-```
-
-3. Validate output tables in the Gold layer
-
----
-
-## 📈 Business Use Cases
-
-* Sales performance analytics
-* Customer segmentation & behavior analysis
-* Product performance tracking
-* Revenue & trend reporting
-
----
-
-## 💡 What Makes This Project Strong
-
-* Mirrors **real-world data engineering pipelines**
-* Handles **multi-source enterprise data**
-* Implements **industry-standard architecture**
-* Clean separation of transformation layers
-* Easily extendable for production use
-
----
-
-## 🔗 Future Enhancements
-
-* Incremental data loading (CDC / streaming)
-* Data quality checks & validation framework
-* Integration with BI tools (**Power BI / Tableau**)
-* CI/CD pipeline for deployment
-* Monitoring & alerting
-
----
 
 ## 👨‍💻 Author
 
 **Jaynit Dhamanskar**
-Aspiring Data Engineer | Building End-to-End Data Projects
-
----
-
-If you want next-level polish, I can:
-
-* Add **GitHub badges (Databricks, Spark, Delta Lake)**
-* Create a **visual architecture diagram (draw.io)**
-* Turn this into a **portfolio storytelling README (for recruiters)** 🚀
